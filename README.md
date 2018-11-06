@@ -1,2 +1,3 @@
 # curso-starter-rocketseat
-Exercises and concepts about Rocketseat Starter courses
+
+> Exercises and concepts of Rocketseat starter courses.
